@@ -1,0 +1,14 @@
+D:\AprendendoCsharp\Sequência de Fibonacci\bin\Debug\net10.0\Sequência de Fibonacci.exe
+D:\AprendendoCsharp\Sequência de Fibonacci\bin\Debug\net10.0\Sequência de Fibonacci.deps.json
+D:\AprendendoCsharp\Sequência de Fibonacci\bin\Debug\net10.0\Sequência de Fibonacci.runtimeconfig.json
+D:\AprendendoCsharp\Sequência de Fibonacci\bin\Debug\net10.0\Sequência de Fibonacci.dll
+D:\AprendendoCsharp\Sequência de Fibonacci\bin\Debug\net10.0\Sequência de Fibonacci.pdb
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.AssemblyInfoInputs.cache
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.AssemblyInfo.cs
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.csproj.CoreCompileInputs.cache
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.dll
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\refint\Sequência de Fibonacci.dll
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.pdb
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\Sequência de Fibonacci.genruntimeconfig.cache
+D:\AprendendoCsharp\Sequência de Fibonacci\obj\Debug\net10.0\ref\Sequência de Fibonacci.dll
