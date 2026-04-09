@@ -1,4 +1,5 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+//Renan Bezerra Fernandes Morato
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 int contador = 0, resultado;
 Console.WriteLine("Calculadora de Números Primos");
