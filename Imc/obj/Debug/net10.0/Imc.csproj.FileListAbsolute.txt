@@ -1,0 +1,14 @@
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.AssemblyInfoInputs.cache
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.AssemblyInfo.cs
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.csproj.CoreCompileInputs.cache
+D:\AprendendoCsharp\Imc\bin\Debug\net10.0\Imc.exe
+D:\AprendendoCsharp\Imc\bin\Debug\net10.0\Imc.deps.json
+D:\AprendendoCsharp\Imc\bin\Debug\net10.0\Imc.runtimeconfig.json
+D:\AprendendoCsharp\Imc\bin\Debug\net10.0\Imc.dll
+D:\AprendendoCsharp\Imc\bin\Debug\net10.0\Imc.pdb
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.dll
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\refint\Imc.dll
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.pdb
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\Imc.genruntimeconfig.cache
+D:\AprendendoCsharp\Imc\obj\Debug\net10.0\ref\Imc.dll
