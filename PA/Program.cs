@@ -1,4 +1,5 @@
-﻿int a1 = 10; // Ataque inicial
+//Renan Bezerra Fernandes Morato
+int a1 = 10; // Ataque inicial
 int r = 5;   // Ganho por nível
 int n = 20;  // Nível desejado
 
