@@ -1,0 +1,14 @@
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\bin\Debug\net10.0\Tabuada 1 ao 100.exe
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\bin\Debug\net10.0\Tabuada 1 ao 100.deps.json
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\bin\Debug\net10.0\Tabuada 1 ao 100.runtimeconfig.json
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\bin\Debug\net10.0\Tabuada 1 ao 100.dll
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\bin\Debug\net10.0\Tabuada 1 ao 100.pdb
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.AssemblyInfo.cs
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.dll
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\refint\Tabuada 1 ao 100.dll
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.pdb
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\Tabuada 1 ao 100.genruntimeconfig.cache
+C:\Users\dev\Documents\Atividades DS1B\Tabuada 1 ao 100\obj\Debug\net10.0\ref\Tabuada 1 ao 100.dll
